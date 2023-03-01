@@ -1,0 +1,14 @@
+.bg-color{
+    background: rgba(231, 111, 81, 0.1);
+    border-radius: 5px;
+}
+.footer-link{
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+    
+}
+.footer-link:hover{
+ color: white;
+    
+}
